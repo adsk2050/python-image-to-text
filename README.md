@@ -1,3 +1,5 @@
+Works well for captcha resolution
+
 # Installation
 
 1. Install system dependencies
